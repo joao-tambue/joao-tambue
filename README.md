@@ -1,49 +1,31 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=omariscode.omariscode" />
+# I'm Thiago 👋
 
-<h1>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+world!+👋;+I'm+Thiago+João!;" />
-</h1>
-<h3>I'm a Frontend Developer from Angola</h3>
+I'm a **Frontend Developer** from Angola.
 
-<br/>
+- 🌱 I’m looking to collaborate on exciting projects.
+- 💼 I’m open to work with anyone passionate about development.
+- 📞 You can contact me via:
+  - WhatsApp: +929 586 461
+  - Email: [tjao2779@gmail.com](mailto:tjao2779@gmail.com)
 
+---
+
+## ⚡ Languages & Technologies ⚡
 <div>
- 
-  - 👯 I’m looking to collaborate with projetc
-
-  - 📝 I'm open to work with anyone
- 
-  - 💬 You can find me in WhatsApp : 929 586 861 / Gmail:  tjoao7279@gmail.com.
-
- </div>
- 
-<div> 
-  <a href="tjoao7279@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/omar-rodrigues-48a2212b4/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="#" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
-  </a>
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white" alt="Blazor">
+  <img src="https://img.shields.io/badge/ASPNET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET">
 </div>
 
-<h2>⚒ Languages-Frameworks-Tools ⚒</h2>
+---
 
+## ⚡ Stats ⚡
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,flask" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,c#,linux,php" /><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=thiago-dev&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-dev&layout=compact&theme=radical" alt="Most Used Languages">
 </div>
-<h2>⚡ Stats ⚡</h2>
 
-<table>
-  <tr style="border: none;">
-    <td style="border: none;">
-           <img src="https://github-readme-stats.vercel.app/api?username=omarscode&show_icons=true&title_color=C00102&icon_color=C00102" />
-    </td>
-    <td style="border: none;">
-           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omariscode&hide_progress=true)" />
-    </td>
-  </tr>
-</table>
