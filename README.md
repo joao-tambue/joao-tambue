@@ -2,50 +2,63 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+I'm+<Server-Prog/>!;" />
 </h1>
 
+<h1 align="center">Olá, eu sou o Thiago! 👋</h1>
 
 <p align="center">
-  I'm a <b>Frontend Developer</b> from Angola junior, passionate about creating modern and dynamic web interfaces.
+  <b>"A tecnologia é o poder de transformar ideias em realidade. Nunca pare de aprender, criar e inovar."</b>
+</p>
+
+<p align="center">
+  <b>Desenvolvedor Frontend</b> | Criando interfaces modernas e funcionais<br>
+  Atuando na are de desenvolvimentos com tecnologias como <b>React, Blazor, Blazor Hybrid e .NET</b>
 </p>
 
 ---
 
-## 🌟 About Me
-- 🔭 Currently building **responsive and user-friendly web interfaces**.
-- 🌱 Constantly learning **JavaScript frameworks** and **modern front-end tools**.
-- 💬 Ask me about anything related to **HTML, CSS, JavaScript, Blazor, React Native**, and **frontend performance optimization**.
-- 🚀 I’m open to collaborating on:
-  - **Frontend projects** with React Native, Blazor, or modern JavaScript frameworks.
-  - Websites focused on **responsive design** and **accessibility**.
-- 📱 Contact me:
-  - WhatsApp: +929 586 461
-  - Email: [tjao2779@gmail.com](mailto:tjao2779@gmail.com)
+## 🚀 Sobre Mim
+- 🌍 Sou um desenvolvedor frontend baseado em Angola.
+- 💻 Experiência em criar aplicações **responsivas**, **acessíveis** e com **design moderno**.
+- 📚 Estudo continuamente ferramentas e frameworks como **React Native**, **Blazor Hybrid**, **ASP.NET**, e **WebAssembly**.
+- 👯 Estou aberto a colaborações em:
+  - Desenvolvimento de **interfaces de usuário intuitivas**.
+  - Aplicações/Sistemas híbridas utilizando **Blazor Hybrid**.
+  - Projetos de **frontend moderno** com tecnologias Microsoft e JavaScript.
 
 ---
 
-## 🛠️ Technologies I Use
-
-### Frontend Development
+## 🛠️ Tecnologias e Ferramentas
+### Linguagens de Programação:
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native">
-  <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor">
+  <img src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
 </div>
 
-### Tools & Platforms
+### Frameworks e Ferramentas:
+<div>
+  <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor">
+  <img src="https://img.shields.io/badge/Blazor_Hybrid-68217A?style=for-the-badge&logo=dotnet&logoColor=white" alt="Blazor Hybrid">
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native">
+  <img src="https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET">
+  <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" alt="WebAssembly">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS">
+</div>
+
+### Ferramentas de Desenvolvimento:
 <div>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
 </div>
 
 ---
 
-## 📈 My GitHub Stats
-
+## 📈 Estatísticas do GitHub
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thiago-dev&theme=radical" alt="GitHub Streak">
   <br>
@@ -55,15 +68,7 @@
 
 ---
 
-## 🏆 Highlights
-- 🖌️ **Created highly responsive websites** with modern front-end tools.
-- 🌐 Specialized in **progressive web applications (PWAs)** using JavaScript frameworks.
-- 🧩 Developed interactive UIs using **React Native** and **Blazor**.
-- 🛠️ Proficient in **CSS frameworks** like TailwindCSS and Bootstrap to streamline designs.
-
----
-
-## 🔗 Connect With Me
+## 🔗 Conecte-se Comigo
 <div align="center">
   <a href="mailto:tjao2779@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
@@ -87,9 +92,10 @@
 
 ---
 
-## 🎯 Fun Facts About Me
-- 🎨 I have a keen eye for **design systems** and love making UIs aesthetically pleasing.
-- 💡 I enjoy exploring **frontend performance optimization** to make websites faster.
-- 🌍 I’m passionate about **web accessibility** and creating inclusive experiences.
+## 🎯 Curiosidades
+- 💡 **Frontend Moderno**:  Aprendendo frameworks e ferramentas de ponta.
+- 🚀 **Tecnologias Microsoft**:  Criando soluções utilizando **Blazor**, **Blazor Hybrid** e **ASP.NET**.
+- 🌟 **Acessibilidade e UX**: Dedicação para criar interfaces inclusivas e fáceis de usar.
+- 🎨 **Design Visual**: Trabalho com prototipagens no **Figma** antes do desenvolvimento.
 
 ---
