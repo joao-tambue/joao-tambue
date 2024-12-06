@@ -60,10 +60,14 @@
 
 ## 📈 Estatísticas do GitHub
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thiago-dev&theme=radical" alt="GitHub Streak">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=thiago-dev&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-dev&layout=compact&theme=radical" alt="Most Used Languages" width="48%">
+  <!-- Estatísticas de Repositórios -->
+  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
+  
+  <!-- Linguagens Mais Usadas -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical" alt="Linguagens Mais Usadas" />
+
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com/?user=seu-usuario&theme=radical" alt="GitHub Streak Stats" />
 </div>
 
 ---
