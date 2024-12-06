@@ -59,16 +59,15 @@
 ---
 
 ## 📈 Estatísticas do GitHub
-<div align="center">
-  <!-- Estatísticas de Repositórios -->
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
-  
-  <!-- Linguagens Mais Usadas -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical" alt="Linguagens Mais Usadas" />
+## 📊 Estatísticas Personalizadas
 
-  <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com/?user=seu-usuario&theme=radical" alt="GitHub Streak Stats" />
-</div>
+| 💻 Atividade              | 🎯 Quantidade  |
+|---------------------------|----------------|
+| 📅 **Commits no último mês** | 120            |
+| 📂 **Repositórios Criados**  | 5              |
+| 🚀 **Tecnologias Usadas**    | React, Blazor, PHP, C# |
+| ⏳ **Horas Dedicadas**       | 50 horas       |
+| 🌟 **Contribuições Externas**| 3 projetos     |
 
 ---
 
