@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+I'm+<Server-Prog/>!;" />
 </h1>
 
-<h1 align="center">Olá, eu sou o Thiago! 👋</h1>
+<h1 align="center">Olá, eu sou o João! 👋</h1>
 
 <p align="center">
   <b>"A tecnologia é o poder de transformar ideias em realidade. Nunca pare de aprender, criar e inovar."</b>
