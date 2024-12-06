@@ -9,20 +9,20 @@
 </p>
 
 <p align="center">
-  <b>Desenvolvedor Frontend</b> | Criando interfaces modernas e funcionais<br>
+  <b>Desenvolvedor Frontend com conhecimentos de Backend</b> | Criando interfaces modernas e funcionais<br>
   Atuando na are de desenvolvimentos com tecnologias como <b>React, Blazor, Blazor Hybrid e .NET</b>
 </p>
 
 ---
 
 ## 🚀 Sobre Mim
-- 🌍 Sou um desenvolvedor frontend baseado em Angola.
-- 💻 Experiência em criar aplicações **responsivas**, **acessíveis** e com **design moderno**.
-- 📚 Estudo continuamente ferramentas e frameworks como **React Native**, **Blazor Hybrid**, **ASP.NET**, e **WebAssembly**.
+- 🌍 Sou um desenvolvedor baseado em Angola.
+- 💻 Experiência em criar aplicações **responsivas**, **acessíveis**, **funcionais** e com **design moderno**.
+- 📚 Estudo continuamente ferramentas e frameworks como **React**, **Blazor Hybrid**, **ASP.NET**, e **WebAssembly**.
 - 👯 Estou aberto a colaborações em:
   - Desenvolvimento de **interfaces de usuário intuitivas**.
   - Aplicações/Sistemas híbridas utilizando **Blazor Hybrid**.
-  - Projetos de **frontend moderno** com tecnologias Microsoft e JavaScript.
+  - Projetos de **frontend moderno** e **Backend funcional** com tecnologias Microsoft e C#.
 
 ---
 
