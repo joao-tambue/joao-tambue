@@ -66,7 +66,7 @@
            <img src="https://github-readme-stats.vercel.app/api?username=Server-prog&show_icons=true&title_color=FF5733&icon_color=FF5733&theme=radical" alt="Estatísticas do GitHub" />
     </td>
     <td style="border: none;">
-           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical" alt="Linguagens mais usadas" />
+           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Server-prog&layout=compact&theme=radical" alt="Linguagens mais usadas" />
     </td>
   </tr>
 </table>
