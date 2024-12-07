@@ -63,13 +63,14 @@
 <table>
   <tr style="border: none;">
     <td style="border: none;">
-           <img src="https://github-readme-stats.vercel.app/api?username=omarscode&show_icons=true&title_color=C00102&icon_color=C00102" />
+           <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&title_color=FF5733&icon_color=FF5733&theme=radical" alt="Estatísticas do GitHub" />
     </td>
     <td style="border: none;">
-           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omariscode&hide_progress=true)" />
+           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical" alt="Linguagens mais usadas" />
     </td>
-  </tr>
+  </tr>
 </table>
+
 
 ---
 
