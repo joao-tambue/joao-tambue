@@ -60,24 +60,16 @@
 
 ## 📈 Estatísticas
 
-<img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical" alt="Estatísticas do GitHub">  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical" alt="Linguagens mais usadas">  
-
----
-
-## 🌟 **Frase Motivadora**  
-
-_"A tecnologia é uma ferramenta poderosa; o que você cria com ela é o que faz a diferença."_  
-
----
-
-## 📂 **Projetos em Destaque**
-
-- **[Diário Digital](#)**  
-  _Um aplicativo web moderno para registrar e organizar memórias._
-  
-- **[Gerador de Histórias](#)**  
-  _Uma ferramenta para gerar narrativas criativas, utilizando tecnologia frontend avançada._
+<table>
+  <tr style="border: none;">
+    <td style="border: none;">
+           <img src="https://github-readme-stats.vercel.app/api?username=omarscode&show_icons=true&title_color=C00102&icon_color=C00102" />
+    </td>
+    <td style="border: none;">
+           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omariscode&hide_progress=true)" />
+    </td>
+  </tr>
+</table>
 
 ---
 
