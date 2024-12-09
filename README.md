@@ -5,7 +5,7 @@
 <h1 align="center">Olá, eu sou o João! 👋</h1>
 
 <p align="center">
-  <b>"A tecnologia é o poder de transformar ideias em realidade. Nunca pare de aprender, criar e inovar."</b>
+  <b>"A tecnologia move o mundo, vamos conectar sonhos, um byte de cada vez."</b>
 </p>
 
 <p align="center">
