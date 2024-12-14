@@ -60,16 +60,31 @@
 
 ## 📈 Estatísticas
 
-<table>
-  <tr style="border: none;">
-    <td style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=Server-prog&show_icons=true&title_color=C00102&icon_color=C00102" />
+<table style="width: 100%; border-collapse: collapse; text-align: center;">
+  <tr style="background-color: #f2f2f2;">
+    <th style="padding: 10px; border: 1px solid #ddd;">Descrição</th>
+    <th style="padding: 10px; border: 1px solid #ddd;">Imagem/Link</th>
+  </tr>
+  <tr>
+    <td style="padding: 10px; border: 1px solid #ddd;">GitHub Stats</td>
+    <td style="padding: 10px; border: 1px solid #ddd;">
+      <img src="https://github-readme-stats.vercel.app/api?username=Server.prog&show_icons=true&title_color=C00102&icon_color=C00102" />
     </td>
-    <td style="border: none;">
+  </tr>
+  <tr style="background-color: #f9f9f9;">
+    <td style="padding: 10px; border: 1px solid #ddd;">Linguagens Mais Usadas</td>
+    <td style="padding: 10px; border: 1px solid #ddd;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Server-prog&hide_progress=true" />
     </td>
   </tr>
+  <tr>
+    <td style="padding: 10px; border: 1px solid #ddd;">Meu Repositório Favorito</td>
+    <td style="padding: 10px; border: 1px solid #ddd;">
+      <a href="https://github.com/SeuUsernameGitHub/RepositorioExemplo">Link para o Repositório</a>
+    </td>
+  </tr>
 </table>
+
 
 
 
