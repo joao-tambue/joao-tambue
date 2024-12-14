@@ -80,7 +80,7 @@
   <tr>
     <td style="padding: 10px; border: 1px solid #ddd;">Meu Repositório Favorito</td>
     <td style="padding: 10px; border: 1px solid #ddd;">
-      <a href="https://github.com/Server-prog/RepositorioExemplo">Link para o Repositório</a>
+      <a href="[https://github.com/Server-prog/RepositorioExemplo](https://github.com/Server-prog/Gerador-de-Historia)">Link para o Repositório</a>
     </td>
   </tr>
 </table>
