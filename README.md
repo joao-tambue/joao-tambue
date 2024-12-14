@@ -68,7 +68,7 @@
   <tr>
     <td style="padding: 10px; border: 1px solid #ddd;">GitHub Stats</td>
     <td style="padding: 10px; border: 1px solid #ddd;">
-      <img src="https://github-readme-stats.vercel.app/api?username=Server.prog&show_icons=true&title_color=C00102&icon_color=C00102" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Server-prog&show_icons=true&title_color=C00102&icon_color=C00102" />
     </td>
   </tr>
   <tr style="background-color: #f9f9f9;">
@@ -80,7 +80,7 @@
   <tr>
     <td style="padding: 10px; border: 1px solid #ddd;">Meu Repositório Favorito</td>
     <td style="padding: 10px; border: 1px solid #ddd;">
-      <a href="https://github.com/SeuUsernameGitHub/RepositorioExemplo">Link para o Repositório</a>
+      <a href="https://github.com/Server-prog/RepositorioExemplo">Link para o Repositório</a>
     </td>
   </tr>
 </table>
