@@ -61,8 +61,8 @@ Levar inovação, acessibilidade e impacto real aos projetos que desenvolvo. Cad
 ---
 
 📩 **Entre em contato comigo:**  
-- **LinkedIn:** [Seu LinkedIn Aqui](#)  
-- **Email:** seuemail@exemplo.com  
+- **LinkedIn:** [https://www.linkedin.com/in/thiago-jo%C3%A3o-369b4833b/](#)  
+- **Email:** tjoao7279@gmail.com  
 
 ---
 
