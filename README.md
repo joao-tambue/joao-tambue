@@ -1,51 +1,71 @@
-# 👋 Olá, eu sou João Tambue!
+<h1>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+I'm+<Server/>!;" />
+</h1>
 
-Sou um desenvolvedor **Frontend**, apaixonado por tecnologia e sempre em busca de novos desafios. Trabalho principalmente com **HTML, CSS, JavaScript, Tailwind CSS, React.js, TypeScript e Blazor**, criando interfaces modernas e responsivas.
+# 👨‍💻 João Tambue  
 
-## 🏆 Sobre Mim
-<div style="display: flex; align-items: center;">
-    <div style="flex: 1;">
-        <p>
-            Olá! Meu nome é João Tambue, sou um desenvolvedor frontend apaixonado por tecnologia e inovação. 
-            Gosto de transformar ideias em interfaces intuitivas e eficientes. Tenho experiência no desenvolvimento 
-            de aplicações responsivas e acessíveis, garantindo que os usuários tenham a melhor experiência possível. 
-            Estou sempre em busca de novos desafios e aprendizados para aprimorar minhas habilidades e evoluir profissionalmente.
-        </p>
-    </div>
-    <div style="flex: 1; text-align: right;">
-        <img src="472991983_122093079704730435_6626254160929278732_n" alt="Minha Foto" width="200" style="border-radius: 10px;">
-    </div>
-</div>
+### Desenvolvedor Frontend.
 
-## 🚀 Tecnologias & Ferramentas
+Olá! Sou João Tambue, um **Desenvolvedor Frontend** apaixonado por criar experiências digitais envolventes e funcionais. Com um olhar atento para **design responsivo** e **usuários**, eu também domino o **desenvolvimento Backend**, garantindo que cada projeto seja completo, eficiente e robusto.  
 
-### 🖥️ **Linguagens de Programação**
+---
+
+### 🚀 O que me define:
+- **Criatividade**: Transformo ideias em interfaces intuitivas e elegantes.  
+- **Versatilidade**: Atuo tanto no Frontend quanto no Backend para entregar soluções completas.  
+- **Evolução Contínua**: Estou sempre aprendendo novas tecnologias e tendências do mercado.
+
+---
+
+### ✨ Minha Missão:
+Levar inovação, acessibilidade e impacto real aos projetos que desenvolvo. Cada linha de código que escrevo tem como objetivo fazer a diferença na vida dos usuários.
+
+---
+
+🎯 *"A tecnologia é mais do que uma ferramenta; é um meio para construir um futuro melhor."*
+
+## 💡 Habilidades Técnicas  
+
+### Linguagens de Programação:  
 <div style="display: flex; flex-wrap: wrap; align-items: center;">
-    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" style="border-radius: 12px; margin: 5px;" /> 
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" style="border-radius: 12px; margin: 5px;" />
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="border-radius: 12px; margin: 5px;" />
+    <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" style="border-radius: 12px; margin: 5px;" />
+    <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" style="border-radius: 12px; margin: 5px;" />
 </div>
 
-### 🚀 **Frameworks e Bibliotecas**
+### Frameworks e Ferramentas:  
 <div style="display: flex; flex-wrap: wrap; align-items: center;">
-    <img src="https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js" />
-    <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-    <img src="https://img.shields.io/badge/-Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor" />
+    <img src="https://img.shields.io/badge/-Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor" style="border-radius: 12px; margin: 5px;" />
+    <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" style="border-radius: 12px; margin: 5px;" />
 </div>
 
-### 🛠️ **Ferramentas de Desenvolvimento**
+### Tecnologias Backend:  
 <div style="display: flex; flex-wrap: wrap; align-items: center;">
-    <img src="https://img.shields.io/badge/-VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
-    <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+    <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" style="border-radius: 12px; margin: 5px;" />
+    <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="border-radius: 12px; margin: 5px;" />
 </div>
 
-## 📫 Como me encontrar
+### Ferramentas de Desenvolvimento:  
+<div style="display: flex; flex-wrap: wrap; align-items: center;">
+    <img src="https://img.shields.io/badge/-VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" style="border-radius: 12px; margin: 5px;" />
+    <img src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" style="border-radius: 12px; margin: 5px;" />
+    <img src="https://img.shields.io/badge/-Laragon-0E83CD?style=for-the-badge&logo=laravel&logoColor=white" alt="Laragon" style="border-radius: 12px; margin: 5px;" />
+</div>
 
-📧 Email: [seuemail@email.com](mailto:seuemail@email.com)  
-💼 LinkedIn: [linkedin.com/in/joaotambue](#)  
-🐙 GitHub: [github.com/joaotambue](#)  
+### Outros:  
+- 🌐 Animações e Design Responsivo  
+- 🔗 Integração de APIs  
 
-💡 **"A tecnologia move o mundo, e eu movo a tecnologia!"** 🚀
+---
+
+📩 **Entre em contato comigo:**  
+- **LinkedIn:** [https://www.linkedin.com/in/thiago-jo%C3%A3o-369b4833b/](#)  
+- **Email:** tjoao7279@gmail.com  
+
+---
+
+💻 "Transformando ideias em realidade, uma linha de código por vez!"  
 
 
