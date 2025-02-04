@@ -13,7 +13,7 @@ Sou um desenvolvedor **Frontend**, apaixonado por tecnologia e sempre em busca d
         </p>
     </div>
     <div style="flex: 1; text-align: right;">
-        <img src="472991983_122093079704730435_6626254160929278732_n" alt="Minha Foto" style="border-radius: 10px;" />
+        <img src="472991983_122093079704730435_6626254160929278732_n" alt="Minha Foto" width="200" style="border-radius: 10px;">
     </div>
 </div>
 
