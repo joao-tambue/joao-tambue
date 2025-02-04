@@ -4,7 +4,7 @@
 
 # 👨‍💻 João Tambue  
 
-### Desenvolvedor Frontend & Backend  
+### Desenvolvedor Frontend.
 
 Olá! Sou João Tambue, um **Desenvolvedor Frontend** apaixonado por criar experiências digitais envolventes e funcionais. Com um olhar atento para **design responsivo** e **usuários**, eu também domino o **desenvolvimento Backend**, garantindo que cada projeto seja completo, eficiente e robusto.  
 
