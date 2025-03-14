@@ -6,8 +6,7 @@
 <code style="font-size: 1.2em;">Sou um desenvolvedor Fullstack apaixonado por tecnologia e inovação. Trabalho com desenvolvimento frontend e backend, utilizando diversas tecnologias para criar soluções eficientes e modernas.</code>
 
 ## <h2>Tecnologias que domino</h2>
-- <code style="font-size: 1.2em;">Frontend:
-- <img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript"></code>
+- <code style="font-size: 1.2em;">Frontend: HTML, CSS, JavaScript, React.js, Tailwind CSS <br> <img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript"> <img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS"> <img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Visual_Studio_Code_1.35_icon.svg" alt="VS Code"></code>
 - <code style="font-size: 1.2em;">Backend: C#, .NET, PHP</code>
 - <code style="font-size: 1.2em;">Ferramentas: Visual Studio Code, Visual Studio, XAMPP, Laragon, Figma</code>
 
