@@ -1,9 +1,9 @@
 # <h1 align="center"><code>Desenvolvedor de Software</code></h1>
 
 ## <h2>Sobre mim</h2>
-<code style="font-size: 1.2em;">Sou um desenvolvedor Fullstack apaixonado por tecnologia e inovação. Trabalho com desenvolvimento frontend e backend, utilizando diversas tecnologias para criar soluções eficientes e modernas.</code>
+<code style="font-size: 1.2em;">Sou um desenvolvedor Fullstack. Trabalho com desenvolvimento frontend e backend, utilizando diversas tecnologias para criar soluções eficientes e modernas.</code>
 
-## <h2>Tecnologias que domino</h2>
+## <h2>Miha Skill</h2>
 - <code style="font-size: 1.2em;">Frontend: HTML, CSS, JavaScript, React.js, Tailwind CSS</code>
 - <code style="font-size: 1.2em;">Backend: C#, .NET, PHP</code>
 - <code style="font-size: 1.2em;">Ferramentas: Visual Studio Code, Visual Studio, XAMPP, Laragon, Figma</code>
