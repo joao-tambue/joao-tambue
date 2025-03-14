@@ -1,7 +1,6 @@
-# <p align="center"><code>Frontend Developer</p>
+# <p align="center"><code>Software Develper</p>
 
-
-## Sobre mim
+## About me
 <code>Sou um desenvolvedor Fullstack apaixonado por tecnologia e inovação. Trabalho com desenvolvimento frontend e backend, utilizando diversas tecnologias para criar soluções eficientes e modernas.</code>
 
 ## Tecnologias que domino
