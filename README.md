@@ -19,16 +19,22 @@ Send a message and I will reply!
 
 ## 📚 Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-</p>
+![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=Javascript)&nbsp;
+![React](https://img.shields.io/badge/-React.Js-05122A?style=flat&logo=react)&nbsp;
+![Next](https://img.shields.io/badge/-React.Js-05122A?style=flat&logo=next.js)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
+![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
+![Node](https://img.shields.io/badge/-Node-05122A?style=flat&logo=node.js)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![.Net](https://img.shields.io/badge/-Python-05122A?style=flat&logo=dotnet)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![Mysql](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=mysql)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu)&nbsp;
+![Yarn](https://img.shields.io/badge/-Yarn-05122A?style=flat&logo=yarn)&nbsp;
+![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=heroku)&nbsp;
+![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 
 I was already forgetting these 😆
 
