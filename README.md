@@ -1,23 +1,25 @@
-# <p align="center"><code>Software Develper</p>
+# <h1 align="center"> Olá! Eu sou o João Tambue </h1>
 
-## About me
-<code>Sou um desenvolvedor Fullstack apaixonado por tecnologia e inovação. Trabalho com desenvolvimento frontend e backend, utilizando diversas tecnologias para criar soluções eficientes e modernas.</code>
+## <h2 align="center"><code>Frontend Developer</code></h2>
 
-## Tecnologias que domino
-- <code>Frontend: HTML, CSS, JavaScript, React.js, Tailwind CSS</code>
-- <code>Backend: C#, .NET, PHP</code>
-- <code>Ferramentas: Visual Studio Code, Visual Studio, XAMPP, Laragon, Figma</code>
+## <h2>Sobre mim</h2>
+<code style="font-size: 1.2em;">Sou um desenvolvedor Fullstack apaixonado por tecnologia e inovação. Trabalho com desenvolvimento frontend e backend, utilizando diversas tecnologias para criar soluções eficientes e modernas.</code>
 
-## Projetos em andamento
-- <code>PostSnap: Uma plataforma para compartilhar postagens interativas.</code>
-- <code>Chatbot IA: Um chatbot baseado em IA que interage como um amigo virtual.</code>
-- <code>News Aggregator: Um site de notícias dinâmico com suporte para modo escuro e claro.</code>
-- <code>Plataforma de Competições: Onde programadores e alunos competem em desafios.</code>
+## <h2>Tecnologias que domino</h2>
+- <code style="font-size: 1.2em;">Frontend: HTML, CSS, JavaScript, React.js, Tailwind CSS</code>
+- <code style="font-size: 1.2em;">Backend: C#, .NET, PHP</code>
+- <code style="font-size: 1.2em;">Ferramentas: Visual Studio Code, Visual Studio, XAMPP, Laragon, Figma</code>
 
-## Como me encontrar
-- <code>[LinkedIn](https://www.linkedin.com/in/joaotambue)</code>
-- <code>[GitHub](https://github.com/joaotambue)</code>
+## <h2>Projetos em andamento</h2>
+- <code style="font-size: 1.2em;">PostSnap: Uma plataforma para compartilhar postagens interativas.</code>
+- <code style="font-size: 1.2em;">Chatbot IA: Um chatbot baseado em IA que interage como um amigo virtual.</code>
+- <code style="font-size: 1.2em;">News Aggregator: Um site de notícias dinâmico com suporte para modo escuro e claro.</code>
+- <code style="font-size: 1.2em;">Plataforma de Competições: Onde programadores e alunos competem em desafios.</code>
+
+## <h2>Como me encontrar</h2>
+- <code style="font-size: 1.2em;"><a href="https://www.linkedin.com/in/joaotambue">LinkedIn</a></code>
+- <code style="font-size: 1.2em;"><a href="https://github.com/joaotambue">GitHub</a></code>
 
 ---
-<code>Vamos construir algo incrível juntos!</code>
+<code style="font-size: 1.2em;">Vamos construir algo incrível juntos!</code>
 
