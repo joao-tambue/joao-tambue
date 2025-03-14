@@ -1,6 +1,5 @@
-# <p align="center"> Olá! Eu sou o João Tambue </p>
+# <p align="center"><code>Frontend Developer</p>
 
-## <p align="center"><code>Frontend Developer</code></p>
 
 ## Sobre mim
 <code>Sou um desenvolvedor Fullstack apaixonado por tecnologia e inovação. Trabalho com desenvolvimento frontend e backend, utilizando diversas tecnologias para criar soluções eficientes e modernas.</code>
