@@ -8,11 +8,11 @@
   <tr>
     <td>
       <h3> <code> Working to be better than I was yesterday. </code> </h3>
-      <h3> <code> In whatever it is opportune for me to participate, I will always be active to give my input, as long as it is one of my abilities ...  </code> </h3>
+      <h3> In whatever it is opportune for me to participate, I will always be active to give my input, as long as it is one of my abilities ...</h3>
       <h3>💻 <code> Software developer </code> </h3>
       <ul>
-        <li>📚 <code> All my projects can be found here </code> </li>
-        <li>👍 <code> Ask me about <strong>JavaScript, HTML, CSS, React, C#</strong> and more </code> </li>
+        <li>📚All my projects can be found here </li>
+        <li>👍 Ask me about <strong>JavaScript, HTML, CSS, React, C#</strong> and more </li>
       </ul>
     </td>
     <td>
