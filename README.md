@@ -7,7 +7,7 @@
 <table>
   <tr>
     <td>
-      <h3> <code> Working to be better than I was yesterday. </code> </h3>
+      <h3>Working to be better than I was yesterday.</h3>
       <h3> In whatever it is opportune for me to participate, I will always be active to give my input, as long as it is one of my abilities ...</h3>
       <h3>💻 <code> Software developer </code> </h3>
       <ul>
