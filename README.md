@@ -7,9 +7,9 @@
 <table>
   <tr>
     <td>
-      <h3>Working to be better than I was yesterday.</h3>
-      <h3> In whatever it is opportune for me to participate, I will always be active to give my input, as long as it is one of my abilities ...</h3>
-      <h3>💻 <code> Software developer </code> </h3>
+      <p>Working to be better than I was yesterday.</h3>
+      <p> In whatever it is opportune for me to participate, I will always be active to give my input, as long as it is one of my abilities ...</p>
+      <p>💻 <code> Software developer </code> </p>
       <ul>
         <li>📚All my projects can be found here </li>
         <li>👍 Ask me about <strong>JavaScript, HTML, CSS, React, C#</strong> and more </li>
