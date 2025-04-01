@@ -9,7 +9,7 @@
     <td>
       <h2>Working to be better than I was yesterday.</h2>
 
-      <p>I am dedicated to building modern, responsive and accessible interfaces, always focusing on performance and the best user experience</p>
+      <h3>I am dedicated to building modern, responsive and accessible interfaces, always focusing on performance and the best user experience</h3>
 
       <p> In whatever it is opportune for me to participate, I will always be active to give my input, as long as it is one of my abilities ...</p>
       <p>💻 <code> Software developer </code> </p>
