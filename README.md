@@ -15,9 +15,6 @@
         <li>👍 Ask me about <strong>JavaScript, HTML, CSS, React, C#</strong> and more </li>
       </ul>
     </td>
-    <td>
-      <img src="https://github.com/Server-prog/Server-prog/blob/main/472991983_122093079704730435_6626254160929278732_n.jpg" width="700" height="280" style="border-radius: 50%;" alt="João Tambue">
-    </td>
   </tr>
 </table>
 
