@@ -4,22 +4,18 @@
 
  <p><code> Software developer </code></p>
 
-<table>
-  <tr>
-    <td>
-      <h2>Working to be better than I was yesterday.</h2>
+<h2>Working to be better than I was yesterday.</h2>
 
-      <h3>I am dedicated to building modern, responsive and accessible interfaces, always focusing on performance and the best user experience</h3>
+<h3>Frontend Developer focused on modern, responsive, and accessible interfaces.</h3>
 
-      <p> In whatever it is opportune for me to participate, I will always be active to give my input, as long as it is one of my abilities ...</p>
-      <p>💻 <code> Software developer </code> </p>
-      <ul>
-        <li>📚All my projects can be found here </li>
-        <li>👍 Ask me about <strong>JavaScript, HTML, CSS, React, C#</strong> and more </li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<p>💻 <strong>Skills:</strong> JavaScript, HTML5, CSS3, React.js, C# (learning)</p>  
+<p>🚀 <strong>Passionate about:</strong> Performance optimization, clean code, and UX.</p>  
+
+<ul>
+  <li>📁 All my projects are available here on GitHub.</li>
+  <li>💬 Ask me about <strong>Frontend development</strong> or tech in general!</li>
+  <li>📫 How to reach me: [seu-email] | [LinkedIn]</li>  
+</ul>
 
 ---
 
