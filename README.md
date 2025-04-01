@@ -6,15 +6,13 @@
 
 <h2>Working to be better than I was yesterday.</h2>
 
-<h3>Frontend Developer focused on modern, responsive, and accessible interfaces.</h3>
+<p>Frontend Developer focused on modern, responsive, and accessible interfaces.</p>
 
-<p>💻 <strong>Skills:</strong> JavaScript, HTML5, CSS3, React.js, C# (learning)</p>  
 <p>🚀 <strong>Passionate about:</strong> Performance optimization, clean code, and UX.</p>  
 
 <ul>
   <li>📁 All my projects are available here on GitHub.</li>
-  <li>💬 Ask me about <strong>Frontend development</strong> or tech in general!</li>
-  <li>📫 How to reach me: [seu-email] | [LinkedIn]</li>  
+  <li>💬 Ask me about <strong>Frontend development</strong> or tech in general!</li> 
 </ul>
 
 ---
