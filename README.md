@@ -46,7 +46,5 @@ Trying not to forget where I started 😆
 
 ### Most Used Languages
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Server-prog&layout=compact&theme=dark" alt="Most Used Languages">
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Server-prog&layout=compact&langs_count=8&theme=tokyonight)
 
