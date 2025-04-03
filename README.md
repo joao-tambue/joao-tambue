@@ -40,12 +40,6 @@ Trying not to forget where I started 😆
 
 ---
 
-### Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Server-prog&layout=compact&langs_count=6&theme=radical&hide=html,css)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Server-prog&show_icons=true&theme=tokyonight)
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Server-prog&show_icons=true&theme=tokyonight)
 
 
