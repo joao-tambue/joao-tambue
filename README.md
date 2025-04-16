@@ -23,8 +23,10 @@
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
 ![Node](https://img.shields.io/badge/-Node-05122A?style=flat&logo=node.js)&nbsp;
 ![React](https://img.shields.io/badge/-React.Js-05122A?style=flat&logo=react)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwind-css)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
+![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=sass)&nbsp;
 ![.Net](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=dotnet)&nbsp;
 ![Blazor](https://img.shields.io/badge/-Blazor-05122A?style=flat&logo=blazor)&nbsp;
 ![WebAssembly](https://img.shields.io/badge/-WebAssembly-05122A?style=flat&logo=webassembly)&nbsp;
@@ -32,7 +34,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
-![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=sass)&nbsp;
 
 Trying not to forget where I started 😆
 
