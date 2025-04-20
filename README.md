@@ -27,7 +27,6 @@
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwind-css)&nbsp;
 ![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=sass)&nbsp;
 ![.Net](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=dotnet)&nbsp;
-![Blazor](https://img.shields.io/badge/-Blazor-05122A?style=flat&logo=blazor)&nbsp;
 ![WebAssembly](https://img.shields.io/badge/-WebAssembly-05122A?style=flat&logo=webassembly)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
