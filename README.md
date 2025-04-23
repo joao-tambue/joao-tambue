@@ -39,6 +39,6 @@ Trying not to forget where I started 😆
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Server-prog&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Server-prog&show_icons=true&theme=tokyonight)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Server-prog&layout=compact&theme=radical)
 
 
