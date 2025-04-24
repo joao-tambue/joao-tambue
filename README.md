@@ -19,18 +19,37 @@
 
 ## 📚 My Hard Skill
 
-![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=Javascript)&nbsp;
-![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
-![Node](https://img.shields.io/badge/-Node-05122A?style=flat&logo=node.js)&nbsp;
-![React](https://img.shields.io/badge/-React.Js-05122A?style=flat&logo=react)&nbsp;
+### 🚀 Languages ​​and Fromeworks
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![C# / .NET](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=dotnet)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
+![WebAssembly](https://img.shields.io/badge/-WebAssembly-05122A?style=flat&logo=webassembly)
+
+---
+
+### 🎨 Styling Technologies
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwind-css)&nbsp;
 ![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=sass)&nbsp;
-![.Net](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=dotnet)&nbsp;
-![WebAssembly](https://img.shields.io/badge/-WebAssembly-05122A?style=flat&logo=webassembly)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+
+---
+
+### ⚙️ DevOps
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat&logo=github-actions)&nbsp;
+
+---
+
+### 🧰 Tools & Others
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code)&nbsp;
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
+
 
 Trying not to forget where I started 😆
 
@@ -39,6 +58,24 @@ Trying not to forget where I started 😆
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Server-prog&show_icons=true&theme=tokyonight)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Server-prog&layout=compact&theme=radical)
+## 📊 GitHub Stats
+
+<div align="center">
+
+<table>
+  <tr>
+    <td>
+      <img height="170" src="https://github-readme-stats.vercel.app/api?username=joao-tambue&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+    </td>
+    <td>
+      <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-tambue&layout=compact&theme=tokyonight&hide_border=true" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+
+---
 
 
