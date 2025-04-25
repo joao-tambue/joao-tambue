@@ -49,10 +49,6 @@
 
 ---
 
-Se quiser com outro estilo (como `for-the-badge`, `plastic`, `flat-square`, etc), só falar que eu ajusto!
-
----
-
 ### 🧰 Tools & Others
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code)&nbsp;
