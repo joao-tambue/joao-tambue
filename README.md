@@ -11,6 +11,7 @@
 <p>🚀 <strong>Passionate about:</strong> Performance optimization, clean code, and UX.</p>  
 
 <ul>
+    <li>🖥️ I'm learning React Native and Angular.js</li>
   <li>📁 All my projects are available here on GitHub.</li>
   <li>💬 Ask me about <strong>Frontend development</strong> or tech in general!</li> 
 </ul>
