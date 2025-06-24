@@ -1,10 +1,6 @@
-<h1>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=50&duration=4000&lines=Hi+There!+👋;+I'm+João+Tambue!;" />
-</h1>
+<p><code> Software developer </code></p>
 
- <p><code> Software developer </code></p>
-
-<h2>Working to be better than I was yesterday.</h2>
+<h3>Working to be better than I was yesterday.</h3>
 
 <p>Frontend Developer focused on modern, responsive, and accessible interfaces.</p>
 
