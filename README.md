@@ -21,7 +21,6 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
 ![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![React Native](https://img.shields.io/badge/React_Native-05122A?style=flat&logo=react&logoColor=61DAFB)
 ![C# / .NET](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=dotnet)&nbsp;
 
 
