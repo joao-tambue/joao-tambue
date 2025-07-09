@@ -1,20 +1,18 @@
 <p><code> Software developer </code></p>
 
-<h3>Working to be better than I was yesterday.</h3>
-
 <p>Frontend Developer focused on modern, responsive, and accessible interfaces.</p>
 
 <p>🚀 <strong>Passionate about:</strong> Performance optimization, clean code, and UX.</p>  
 
 <ul>
     <li>🖥️ I'm learning React Native and Angular.js</li>
-  <li>📁 All my projects are available here on GitHub.</li>
-  <li>💬 Ask me about <strong>Frontend development</strong> or tech in general!</li> 
+    <li>📁 All my projects are available here on GitHub.</li>
+    <li>💬 Ask me about <strong>Frontend development</strong> or tech in general!</li> 
 </ul>
 
 ---
 
-### 🚀 Languages ​​and Fromeworks
+### 🚀 Technologies and tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
@@ -37,7 +35,7 @@
 ![React Query](https://img.shields.io/badge/-React%20Query-05122A?style=flat&logo=reactquery)&nbsp;
 
 
-Trying not to forget where I started 😆
+Where I started
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
