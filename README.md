@@ -18,5 +18,5 @@ Focused on delivering scalable solutions with clean architecture and user experi
 I pay close attention to detail, ensuring consistency, responsiveness, and maintainability across projects.  
 Always aiming for efficient code, predictable behavior, and a smooth user experience.
 
-[![João Tambue](https://img.shields.io/badge/Joao_Tambue-0A66C2?style=flat&logo=linkedin&logoColor=white)](SEU_LINKEDIN)
-[![joaotambue13@gmail.com](https://img.shields.io/badge/joaotambue13@gmail.com-000000?style=flat&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
+[![João Tambue](https://img.shields.io/badge/Joao_Tambue-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/joao-tambue)
+[![joaotambue13@gmail.com](https://img.shields.io/badge/joaotambue13@gmail.com-000000?style=flat&logo=gmail&logoColor=white)](mailto:joaotambue13@gmail.com)
