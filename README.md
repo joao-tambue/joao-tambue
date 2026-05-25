@@ -6,6 +6,11 @@
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=joao-tambue&show_icons=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=joao-tambue&layout=compact"/>
+</p>
+
 ---
 
 [![João Tambue](https://img.shields.io/badge/Joao_Tambue-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/joao-tambue)
