@@ -3,16 +3,16 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left">
-<strong>Sobre Mim</strong>
+<strong>About Me</strong>
 </p>
 
-- 🤔 Explorando novas techs e desenvolvendo soluções de software.
-- 🎓 Estudando Analise e Desenvolvimento de Sistemas.
-- 💼 Trabalhando como Dev. Frontend com JavaScript & TypeScript.
-- 🌱 Aprendendo mais sobre Design System e Otimização de Performance.
+- 🤔 Exploring new techs and developing software solutions.
+- 🎓 Studying Systems Analysis and Development.
+- 💼 Working as a Frontend Developer with JavaScript & TypeScript.
+- 🌱 Learning more about Design Systems and Performance Optimization.
 
 <p align="left">
-  <strong>Aplicações e dados</strong>
+  <strong>Applications and Data</strong>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=3178C6)
@@ -28,7 +28,7 @@
 </p>
 
 <p align="left">
-  💌 Onde me encontrar: ⤵️
+  💌 Where to find me: ⤵️
 </p>
 
 <p align="left">
