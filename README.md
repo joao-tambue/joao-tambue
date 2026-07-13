@@ -1,139 +1,62 @@
-<div align="center">
+![](https://komarev.com/ghpvc/?username=joao-tambue&color=006bed)
 
-```
-██████╗ ██████╗ ████████╗██████╗░░█████╗░██╗░░██╗██████╗░
-██╔══██╗██╔══██╗╚══██╔══╝██╔══██╗██╔══██╗██║░░██║██╔══██╗
-██████╔╝██████╔╝░░░██║░░░██████╔╝██║░░╚═╝███████║██████╔╝
-██╔══██╗██╔══██╗░░░██║░░░██╔══██╗██║░░██╗██╔══██║██╔═══╝░
-██║░░██║██║░░██║░░░██║░░░██║░░██║╚█████╔╝██║░░██║██║░░░░░
-╚═╝░░╚═╝╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░╚═╝░╚════╝░╚═╝░░╚═╝╚═╝░░░░░
-```
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<br/>
+<p align="left">
+<strong>Sobre Mim</strong>
+</p>
 
-# ╔═══════════════════════════════════════════════════╗
-# ║                                                   ║
-# ║   Frontend Engineer & Mobile Developer            ║
-# ║                                                   ║
-# ╚═══════════════════════════════════════════════════╝
+- 🤔 Explorando novas techs e desenvolvendo soluções de software.
+- 🎓 Estudando Analise e Desenvolvimento de Sistemas.
+- 💼 Trabalhando como Dev. Frontend com JavaScript & TypeScript.
+- 🌱 Aprendendo mais sobre Design System e Otimização de Performance.
 
-<br/>
+<p align="left">
+  <strong>Aplicações e dados</strong>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-tambue)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaotambue13@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joao-tambue)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=3178C6)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=339933)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js&logoColor=4FC08D)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+![Expo](https://img.shields.io/badge/-Expo-333333?style=flat&logo=expo&logoColor=000020)
+![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
+![Vitest](https://img.shields.io/badge/-Vitest-333333?style=flat&logo=vitest&logoColor=6E9F18)
+</p>
 
-</div>
+<p align="left">
+  💌 Onde me encontrar: ⤵️
+</p>
 
-<br/>
+<p align="left">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=joaotambue13@gmail.com" alt="Gmail"/></a>
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/joao-tambue" alt="LinkedIn"/></a>
+  <a href="#" title="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
+  <a href="#" title="Facebook">
+  <a href="#" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/_tambue/" alt="Instagram"/></a>
+</p>
 
----
-
-<br/>
-
-<div align="center">
-
-```
-╭─────────────────────────────────────────────────────────────────╮
-│                                                                 │
-│   Desenvolvedor apaixonado por criar interfaces que             │
-│   não apenas funcionam — mas que memoram.                       │
-│                                                                 │
-│   Acredito que bom design é aquele que você                     │
-│   sente, mesmo sem perceber.                                    │
-│                                                                 │
-╰─────────────────────────────────────────────────────────────────╯
-```
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-## `const stack = {`
-
-<br/>
-
-<div align="center">
-
-```
-┌──────────────────┬──────────────────┬──────────────────┐
-│                  │                  │                  │
-│   ▸ FRONTEND     │   ▸ MOBILE       │   ▸ TOOLS        │
-│                  │                  │                  │
-│   React          │   React Native   │   Git            │
-│   Next.js        │   Expo           │   VS Code        │
-│   Vue.js         │                  │   Figma          │
-│   Angular        │                  │   Linux          │
-│   TypeScript     │                  │                  │
-│   Tailwind CSS   │                  │                  │
-│                  │                  │                  │
-└──────────────────┴──────────────────┴──────────────────┘
-```
-
-</div>
-
-<br/>
-
-## `};`
-
-<br/>
-
----
-
-<br/>
-
-### 📊 GitHub Analytics
-
-<br/>
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                 │
-│   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=joao-tambue&show_icons=true&theme=radical&hide_border=true" height="165"/>    │
-│                                                                 │
-│   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=joao-tambue&layout=compact&theme=radical&hide_border=true" height="165"/>  │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
-```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║   "O bom desenvolvimento é aquele que o usuário              ║
-║    nem percebe que está usando."                             ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
-```
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=joao-tambue&color=blueviolet&style=for-the-badge&label=PROFILE+VISITORS"/>
-
-<br/>
-<br/>
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   Feito com ☕ e muito código                                │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=joao-tambue&theme=dark&hide_border=false&include_all_commits=true"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-tambue&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
+</table>
